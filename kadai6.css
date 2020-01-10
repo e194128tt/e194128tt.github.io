@@ -1,0 +1,63 @@
+div.wrap{
+    width: 1000px;
+    margin: 0px auto;
+}
+
+div.title{
+    width: 1000px;
+    height: 40px;
+    background-color: darkgray;
+    text-align: left;
+    margin-bottom:20px;
+}
+
+div.images{
+    width: 1000px;
+    height: 320px;
+    margin-bottom: 20px 0px;
+    background-color: azure;
+}
+
+div.menu{
+    width: 250px;
+    height: 320px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: white;
+}
+
+div.menuitem{
+    width: 250px;
+    height: 100px;
+    background-color: hotpink;
+    vertical-align: top;
+    margin-bottom: 10px;
+}
+
+div.honbun{
+    width: 700px;
+    height: 320px;
+    display: inline-block;
+    background-color: blueviolet;
+    margin-left: 44px;
+}
+
+div.image1{
+    width: 700px;
+    height: 300px;
+    background-color: black;
+}
+
+div.text{
+    width: 700px;
+    height: 20px;
+    background-color: blue;
+}
+
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color: skyblue;
+    text-align: right;
+    margin-top: 20px;
+}
